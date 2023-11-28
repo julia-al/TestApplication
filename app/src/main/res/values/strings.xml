@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="t1">All</string>
+    <string name="t2">Designers</string>
+    <string name="t3">Analytics</string>
+    <string name="t4">Android</string>
+    <string name="t5">iOS</string>
+    <string name="t6">Management</string>
+    <string name="t7">Frontend</string>
+    <string name="t8">Backend</string>
+    <string name="t9">QA</string>
+    <string name="t10">Back Office</string>
+    <string name="t11">HR</string>
+    <string name="t12">PR</string>
+    <string name="t13">Support</string>
+    <string name="t14">Details</string>
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">Введи имя</string>
+</resources>
